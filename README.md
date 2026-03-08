@@ -1,4 +1,4 @@
-# 👩‍💻 Anne Fernando
+#  ANNE FERNANDO
 
 **AI & Data Analysis Student | Machine Learning Enthusiast**
 
@@ -6,9 +6,10 @@
 📍 Milan, Italy  
 
 I build **machine learning models and data-driven applications** focused on real-world impact.  My interests include **Machine Learning, Explainable AI, NLP, and Predictive Analytics**.
+
 Currently exploring **AI applications in healthcare, behavioral analytics, and decision systems.**
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -18,7 +19,7 @@ Currently exploring **AI applications in healthcare, behavioral analytics, and d
 
 ---
 
-# 🧠 Areas of Interest
+#  Areas of Interest
 
 - Machine Learning
 - Natural Language Processing
@@ -29,7 +30,7 @@ Currently exploring **AI applications in healthcare, behavioral analytics, and d
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -44,21 +45,6 @@ Currently exploring **AI applications in healthcare, behavioral analytics, and d
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧠 Parkinson Disease Detection App
-Machine learning application predicting Parkinson’s disease from **voice biomarkers** using **XGBoost, SHAP explainability, and Streamlit deployment**.
-
-### 📉 Customer Churn Prediction
-End-to-end ML pipeline predicting customer churn using **XGBoost, CatBoost, Hyperopt, and SHAP explainability**.
-
-### 📱 Mobile Device Usage Classification
-Machine learning model predicting **smartphone dependency levels** using behavioral analytics.
-
-### 🌐 Social Media AI Perception Analysis
-Analysis of Reddit discussions about **AI-generated vs traditional art** using **sentiment analysis, NER, and network analysis**.
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Annefern96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
