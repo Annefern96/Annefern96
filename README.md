@@ -68,7 +68,7 @@ Built a Streamlit-based AI application that transforms unstructured meeting note
 
 - Learning Paradigms: Supervised, Unsupervised & Semi-Supervised Learning
 - Algorithms: Linear & Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Gradient Boosting, XGBoost & CatBoost
-- Ensemble Learning: Bagging, Boosting, Random Forest Ensembles, Gradient Boosting Machines & Stacking
+- Ensemble Learning:  Random Forest Ensembles, Gradient Boosting Machines 
 - Feature Optimization: Feature Engineering, Feature Selection & Hyperparameter Optimization
 - Model Tuning: Grid Search, Randomized Search & Hyperparameter Tuning
 - Validation: K-Fold & Stratified K-Fold Cross-Validation
