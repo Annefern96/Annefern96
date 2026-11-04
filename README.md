@@ -1,8 +1,6 @@
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=29B6F6&width=850&lines=%F0%9F%91%8B+Hi%2C+I'm+Anne+Fernando;%F0%9F%8E%93+Artificial+Intelligence+Undergraduate;Machine+Learning+%7C+Data+Science;Building+AI-Powered+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=29&duration=3500&pause=1000&color=B74135&width=1050&height=160&lines=%F0%9F%91%8B+Hi%2C+I'm+Anne+Fernando;%F0%9F%8E%93+Artificial+Intelligence+Undergraduate;Machine+Learning+%7C+Data+Science;Building+AI-Powered+Solutions" alt="Typing SVG" />
 </p>
-
 Artificial Intelligence undergraduate enrolled in a joint degree programme offered by the **University of Pavia, the University of Milan, and the University of Milano-Bicocca**. Experienced in Python, SQL, data analysis, and machine learning, with practical experience in data preprocessing, predictive modelling, and data visualization. Interested in applying data-driven methods to business intelligence, market analysis, and decision-making.
 
 ---
